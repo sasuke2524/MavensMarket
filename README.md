@@ -109,8 +109,8 @@ This dashboard is ideal for:
 > Add your screenshots to the `/screenshots/` folder and reference them below:
 
 ```markdown
-### 🔹 Sales and Profit Trends
-![Sales Trend](screenshots/sales-trend.png)
+### 🔹 Top-Line Performance Analysis
+![Sales Trend](https://github.com/sasuke2524/MavensMarket/blob/main/Top-Line%20Performance%20Analysis.png)
 
 ### 🔹 Product Category Performance
 ![Product Categories](screenshots/category-performance.png)
