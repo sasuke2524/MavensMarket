@@ -106,22 +106,17 @@ This dashboard is ideal for:
 
 ## 📸 Screenshots
 
-> Add your screenshots to the `/screenshots/` folder and reference them below:
-
-```markdown
 ### 🔹 Top-Line Performance Analysis
-![Sales Trend](https://github.com/sasuke2524/MavensMarket/blob/main/Top-Line%20Performance%20Analysis.png)
+![Top-Line Performance Analysis](https://github.com/sasuke2524/MavensMarket/blob/main/Top-Line%20Performance%20Analysis.png)
 
-### 🔹 Product Category Performance
-![Product Categories](screenshots/category-performance.png)
+### 🔹 Geographical Analysis
+![Geographical Analysis](https://github.com/sasuke2524/MavensMarket/blob/main/Geographical%20Analysis.png)
 
-### 🔹 Geographic Sales Overview
-![Geo Sales](screenshots/geographic-sales.png)
+### 🔹 Key Insight Bookmarked
+![Key Insight Bookmarked](https://github.com/sasuke2524/MavensMarket/blob/main/Bookmark%20Key%20Insight.png)
 
-### 🔹 Customer Segmentation
-![Customers](screenshots/customer-segments.png)
-
-```
+### 🔹 Custom Tooltip
+![Custom Tooltip](https://github.com/sasuke2524/MavensMarket/blob/main/Custom%20Tooltip.png)
 
 ## 📬 Contact
 
